@@ -39,7 +39,7 @@ $tweaks = @(
 	"InstallDiscord",
 	"InstallJitsiMeet",
 	"InstallBrave",
-	"InstallAvast",
+	#"InstallAvast",
 	
 
 	### Windows Apps
@@ -92,7 +92,7 @@ $tweaks = @(
 	"DisableHomeGroups",          # "EnableHomeGroups",
 	"DisableSharedExperiences",     # "EnableSharedExperiences",
 	"DisableRemoteAssistance",      # "EnableRemoteAssistance",
-	"EnableRemoteDesktop",          # "DisableRemoteDesktop",
+	"DisableRemoteDesktop",       	# "EnableRemoteDesktop",          
 	"DisableAutoplay",              # "EnableAutoplay",
 	"DisableAutorun",               # "EnableAutorun",
 	"DisableStorageSense",        # "EnableStorageSense",
